@@ -4,6 +4,6 @@ title: Hello World
 
 ---
 
-# HowToProgramming
+## osu!mania World Cup 2022 Thailand Team Tryout
 
-it's me
+The details of MWC2022 Thailand Team Tryout can be found [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
