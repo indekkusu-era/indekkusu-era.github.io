@@ -18,6 +18,10 @@ Aspiring Data Scientist, Software Engineer intern and Music Composer.
 
 - This website
 
+- [Exploratory Analysis of Health Statistics for Thailand Insurance in Modern Era](https://github.com/HowToProgramming/thai-health-stats-eda)
+
+    This is a project based on the concept **Innovation of Insurances in Modern's Perspectives**. This will go over analysis on the thai health statistics to find the trend of Insurance Businesses in Thailand and couple more of new ideas from these exploratory analyses.
+
 - [Fake News Analysis using Dimensionality Reduction Technique](https://github.com/HowToProgramming/fake-news-analysis-dimensionality-reduction)
 
     This Project is an Exploratory Data Analysis and Simple Machine Learning Models to Classify Fake News and Real News using [this Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
