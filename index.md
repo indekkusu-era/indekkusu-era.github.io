@@ -18,6 +18,10 @@ Aspiring Data Scientist, Software Engineer intern and Music Composer.
 
 - This website
 
+- [Seasonality Detection for Bangkok PM2.5 Data using Fast Fourier Transform](https://github.com/indekkusu-era/bangkok-pm25-seasonality)
+
+    This project aims to study the Bangkok PM2.5 Yearly Crisis via Seasonality Detection. The proposed method is to use the Fast Fourier Transform to approximate the formula of Bangkok Concentration of PM2.5.
+
 - [Exploratory Analysis of Health Statistics for Thailand Insurance in Modern Era](https://github.com/indekkusu-era/thai-health-stats-eda)
 
     This is a project based on the concept **Innovation of Insurances in Modern's Perspectives**. This will go over analysis on the thai health statistics to find the trend of Insurance Businesses in Thailand and couple more of new ideas from these exploratory analyses.
