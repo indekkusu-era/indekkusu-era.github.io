@@ -28,7 +28,7 @@ Aspiring Data Scientist, Software Engineer intern and Music Composer.
 
 - [Fake News Analysis using Dimensionality Reduction Technique](https://github.com/indekkusu-era/fake-news-analysis-dimensionality-reduction)
 
-    This Project is an Exploratory Data Analysis and Simple Machine Learning Models to Classify Fake News and Real News using [this Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
+    This Project is an Exploratory Data Analysis and Simple Machine Learning Models to Classify Fake News and Real News using [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
 
 - [Random Optimization Stuff](https://github.com/indekkusu-era/random-optimization-stuff)
 
