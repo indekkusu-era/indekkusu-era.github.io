@@ -4,13 +4,9 @@ title: Hello World
 
 ---
 
-## osu!mania World Cup 2022 Thailand Team Tryout
-
-The details of MWC2022 Thailand Team Tryout can be found [here](https://indekkusu-era.github.io/mwc2022thailandtryout/)
-
 ## About me
 
-Aspiring Data Scientist, Software Engineer intern and Music Composer.
+Aspiring Data Scientist and Music Composer.
 
 ## Projects
 
@@ -78,21 +74,7 @@ Aspiring Data Scientist, Software Engineer intern and Music Composer.
 
 ## Music Commissions
 
-Status : **OPEN**
-
-Price : Minimum 15$ per minute
-
-Preferred Length : 2-3 minutes
-
-### Commissions for osu! Tournaments / Rhythm Games
-
-Non-Tiebreaker Commission : Open
-
-Tiebreaker Commission : Closed
-
-### Commission for general purposes
-
-Always Open
+[Check out here](https://ko-fi.com/indexerror/commissions)
 
 ### Previous Music work
 
